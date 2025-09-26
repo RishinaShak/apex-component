@@ -68,7 +68,7 @@ const CustomMockTestSectionInformation = ({
               alignItems: "flex-start",
             }}
           >
-            <Space size="small">
+            <Space size="small" align="start">
               <Button type="primary">Add questions Template</Button>
               <Button size="small" danger>
                 Delete                 
